@@ -1,0 +1,14 @@
+[
+    {
+      "relation": [
+        "delegate_permission/common.handle_all_urls"
+      ],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.dezmonde.foi.chretien",
+        "sha256_cert_fingerprints": [
+          "17:05:10:C6:06:3A:17:69:59:A7:24:E9:63:F1:0E:BD:CF:CC:3F:5C:69:15:1D:C1:6D:3A:18:7A:9F:9D:1B:CE"
+        ]
+      }
+    }
+  ]
